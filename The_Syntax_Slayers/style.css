@@ -53,12 +53,12 @@ section {
   background-size: cover;
 }
 
-.banner video {
+/* .banner video {
   position: absolute;
   right: 0;
   bottom: 0;
   z-index: -1;
-}
+} */
 
 @media (min-aspect-ratio: 16/9) {
   .banner video {
